@@ -1,0 +1,5 @@
+# .gitignore文件是配置将不需要提交的文件隐藏掉
+
+#Compiled class file -- 隐藏class文件
+*.class
+
